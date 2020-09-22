@@ -1,0 +1,7 @@
+Promise is a special Javascript Object that represents an eventual result of asynchronous action
+
+1. Pass a callback
+2. Return a promise
+
+
+

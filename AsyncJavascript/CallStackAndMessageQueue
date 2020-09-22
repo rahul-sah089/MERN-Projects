@@ -1,0 +1,29 @@
+How Javascript Engine Executes Codes?
+
+Javascript use two main datastructures to executes the code
+1) CallStack
+2) Message Queue
+
+
+What the Heck is Event Loop?
+How does Javascript Work?
+A single threaded,  non blocking asycnhonous  concurrent language
+I have call stack, event loop and callback queue and some other stuff
+
+
+Ex:
+Not Functional
+var name = "Rahul"
+var greeeting = "Hi, I am";
+console.log(greeting + " "+name);
+
+Functional 
+function greet(name){
+    return "Hi , I am "+name
+}
+
+greet('rahulsah');
+=> Hi, I am Anjana
+
+
+Avoid Side Effect -> 

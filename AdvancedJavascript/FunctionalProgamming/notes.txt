@@ -1,0 +1,14 @@
+What is Functional Programming?
+A Programming paradigm
+A Mindset
+Functions are king
+A Sexy, buzzyword
+
+Why functional Programming in Javascript?
+Safe,easier to debug/maintain
+Established Community
+
+Do everything in functions
+input > output
+
+

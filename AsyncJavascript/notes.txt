@@ -1,0 +1,17 @@
+Callback is a function which you can pass as an argument to another function , and then invoked from within that function
+Using callbacks is a very common in javsript andd lot of JS library re using callbacks
+
+
+Ex 1: Passingg callback function to syncrhnnous funtion
+function print(number){
+    console.log(umber);
+}
+
+const number = [12,3,4,5];
+number.forEach(print);
+
+
+Ex 2: Passing callback function to asynchronous function
+function f(callback){
+    setTimeOut(()=>callback(),0)
+}
