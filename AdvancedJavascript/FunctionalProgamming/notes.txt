@@ -11,4 +11,26 @@ Established Community
 Do everything in functions
 input > output
 
+------------------------------------------------------------------------------
+Let vs const
+var
+let
+const
+
+
+Primitives Data Type vs Reference Data Type
+
+Example of Reference Data Type:
+-> Arrays
+-> Objects
+-> Sets
+-> Maps
+
+
+
+
+
+
+
+
 

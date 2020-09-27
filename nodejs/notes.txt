@@ -1,0 +1,3 @@
+Node js eliminates the waiting and simply conitnues with the next request
+
+Node js runs single threaded, non blocking, asynchrnously , programming which is very memory effiecent
